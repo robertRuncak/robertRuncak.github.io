@@ -1,6 +1,6 @@
 title: "robertRuncak blog"
-author: "Blog Author"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b> by <b><a href=\"https://github.com/niklasbuschmann\">@niklasbuschmann</a></b>"
+author: "robertRuncak"
+description: "robertRuncak blog"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
